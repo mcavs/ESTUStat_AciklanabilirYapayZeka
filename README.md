@@ -1,7 +1,5 @@
 # Açıklanabilir Yapay Zeka
-Eskişehir Teknik Üniversitesi İstatistik Bölümü lisans programında 2022-2023 Güz döneminde yürütülen *Veri Görselleştirme* dersi öğrenme ve öğretme kaynaklarını içerir.
-
-Ders programında sınav tarihlerine bağlı olarak değişiklikler olabilir.
+Eskişehir Teknik Üniversitesi İstatistik Bölümü yüksek lisans programında, 2022-2023 Öğretim Yılı - Bahar Döneminde yürütülen Açıklanabilir Yapay Zeka dersi materyallerini içerir.
 
 Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylarına ulaşabilirsiniz.
 
