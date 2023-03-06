@@ -9,7 +9,7 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 1. Hafta: Giriş - 7 Mart 2023 14:00 
 
-[Notlar]()
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%201.Hafta.pdf)
 
 
 ### 2. Hafta: Lokal düzey açıklayıcılar: Break-Down yöntemi - 14 Mart 2023 14:00 
