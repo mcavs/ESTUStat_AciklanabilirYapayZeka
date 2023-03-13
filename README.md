@@ -14,6 +14,8 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 2. Hafta: Lokal düzey açıklayıcılar: Break-Down yöntemi - 14 Mart 2023 14:00 
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%202.Hafta.pdf)
+
 ### 3. Hafta: Lokal düzey açıklayıcılar: SHAP yöntemi - 21 Mart 2023 14:00 
 
 ### 1. Proje Teslimi - 28 Mart 2023 23:59
