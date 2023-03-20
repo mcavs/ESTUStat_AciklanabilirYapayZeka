@@ -32,7 +32,7 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 7. Hafta: Global düzey açıklayıcılar: Değişken önemliliği yöntemi - 25 Nisan 2023 14:00 
 
-### 2. Proje Teslimi - 2 Nisan 2023 23:59
+### 2. Proje Teslimi - 2 Mayıs 2023 23:59
 
 ### 8. Hafta: Global düzey açıklayıcılar: Kısmi bağımlılık profilleri - 9 Mayıs 2023 14:00 
 
