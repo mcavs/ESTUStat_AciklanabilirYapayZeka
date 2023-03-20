@@ -22,11 +22,11 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 [Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%203.Hafta.pdf)
 
 
-### 1. Proje Teslimi - 28 Mart 2023 23:59
+### 4. Hafta: Lokal düzey açıklayıcılar: LIME yöntemi - 28 Mart 2023 23:59
 
-### 4. Hafta: Lokal düzey açıklayıcılar: LIME yöntemi - 4 Nisan 2023 14:00 
+### 5. Hafta: Lokal düzey açıklayıcılar: Ceteris-Paribus profilleri - 4 Nisan 2023 14:00 
 
-### 5. Hafta: Lokal düzey açıklayıcılar: Ceteris-Paribus profilleri - 11 Nisan 2023 14:00 
+### 1. Proje Teslimi - 11 Nisan 2023 14:00 
 
 ### 6. Hafta: Lokal teşhis grafikleri - 18 Nisan 2023 14:00 
 
