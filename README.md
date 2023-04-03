@@ -24,6 +24,9 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 4. Hafta: Lokal düzey açıklayıcılar | LIME yöntemi - 28 Mart 2023 23:59
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%204.Hafta.pdf)
+
+
 ### 5. Hafta: Lokal düzey açıklayıcılar | Ceteris-Paribus profilleri - 4 Nisan 2023 14:00 
 
 ### 1. Proje Teslimi - 11 Nisan 2023 14:00 
