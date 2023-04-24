@@ -29,6 +29,9 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 5. Hafta: Lokal düzey açıklayıcılar | Ceteris-Paribus profilleri - 4 Nisan 2023 14:00 
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%205.Hafta.pdf)
+
+
 ### 1. Proje Teslimi - 11 Nisan 2023 14:00 
 
 ### 6. Hafta: Lokal teşhis grafikleri - 18 Nisan 2023 14:00 
