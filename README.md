@@ -36,6 +36,8 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 6. Hafta: Lokal teşhis grafikleri - 18 Nisan 2023 14:00 
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%206.Hafta.pdf)
+
 ### 7. Hafta: Global düzey açıklayıcılar | Değişken önemliliği yöntemi - 25 Nisan 2023 14:00 
 
 ### 2. Proje Teslimi - 2 Mayıs 2023 23:59
