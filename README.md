@@ -44,6 +44,8 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 8. Hafta: Global düzey açıklayıcılar | Kısmi bağımlılık profilleri
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%208.Hafta.pdf)
+
 ### 9. Hafta: Global düzey açıklayıcılar | Yerel bağımlılık profilleri 
 
 ### 2. Proje Teslimi 
