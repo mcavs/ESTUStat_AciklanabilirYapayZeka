@@ -46,15 +46,15 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 [Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%208.Hafta.pdf)
 
-### 9. Hafta: Global düzey açıklayıcılar | Yerel bağımlılık profilleri 
+### 9. Hafta: Global teşhiş grafikleri 
+
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%209.Hafta.pdf)
 
 ### 2. Proje Teslimi 
 
-### 10. Hafta: Global düzey açıklayıcılar | Birleştirilmiş yerel bağımlılık profilleri
+### 10. Hafta: Lokal düzey açıklayıcılar | Karşı-olgusal açıklamalar
 
-### 11. Hafta: Global teşhiş grafikleri 
-
-[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%209.Hafta.pdf)
+### 11. Hafta: Etik sorunlar ve yanlılık
 
 ### 12. Hafta: Açıklayıcıların değerlendirilmesi
 
