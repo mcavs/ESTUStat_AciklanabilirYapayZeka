@@ -54,6 +54,8 @@ Aşağıdaki bağlantıları kullanarak ders notlarına, ödev ve proje detaylar
 
 ### 10. Hafta: Lokal düzey açıklayıcılar | Karşı-olgusal açıklamalar
 
+[Notlar](https://github.com/mcavs/ESTUStat_2023Bahar_AciklanabilirYapayZeka/blob/main/DersNotlar%C4%B1/AYZ%210Hafta.pdf)
+
 ### 11. Hafta: Etik sorunlar ve yanlılık
 
 ### 12. Hafta: Açıklayıcıların değerlendirilmesi
